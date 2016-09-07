@@ -9,7 +9,7 @@ development: &default
 
 test:
   <<: *default
-  database: rails5-phantom-base
+  database: rails5-phantom-base_test
 
 production: &deploy
   encoding: utf8
