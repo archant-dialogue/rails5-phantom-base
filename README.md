@@ -2,6 +2,9 @@
 
 This is a base Rails 5 application using Suspenders with the html5up theme "phantom"
 
+[Suspenders APP template by thoughtbot](https://github.com/thoughtbot/suspenders "Suspenders")
+[Phantom theme by html5up](https://html5up.net/phantom "Phantom Theme")
+
 ## Getting Started
 
 After you have cloned this repo, run this setup script to set up your machine
